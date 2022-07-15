@@ -4,9 +4,9 @@
 
 ## To build docker compose
 
-    ```
+```
         sudo docker-compose up
-    ```
+```
 
 ## to list all process which run in background
 
