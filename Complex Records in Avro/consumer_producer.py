@@ -7,6 +7,7 @@ from confluent_kafka import Producer
 from faker import Faker
 from fastavro import parse_schema, writer
 
+
 faker = Faker()
 BROKER_URL = "localhost:9092"
 
@@ -26,7 +27,7 @@ class ClickEvent:
     uri: str = field(default_factory=faker.uri)
     number: int = field(default_factory=lambda: random.randint(0, 999))
     attributes: dict = field(default_factory=ClickAttribute.attributes)
-
+    
     schema = parse_schema(
         {
             "type": "record",
