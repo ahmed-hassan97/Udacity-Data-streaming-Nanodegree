@@ -20,7 +20,7 @@ def configure_connector():
     resp = requests.get(f"{KAFKA_CONNECT_URL}/{CONNECTOR_NAME}")
     if resp.status_code == 200:
         return
-
+    
     #
     # TODO: Complete the Kafka Connect Config below.
     #       See: https://docs.confluent.io/current/connect/references/restapi.html
