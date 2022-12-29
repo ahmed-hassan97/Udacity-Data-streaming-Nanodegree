@@ -3,6 +3,7 @@ from confluent_kafka import Producer , Consumer
 from dataclasses import dataclass, field
 from faker import Faker
 import json , random
+import time 
 
 BROKER_URL = "localhost:9092"
 TOPIC_NAME = "info"
@@ -50,7 +51,7 @@ def produce(topic_name):
         )
     while True:
         p.produce(topic_name , info().seralize())
-    
+       
 
 def create_topic(TOPIC_NAME):
     """Creates the topic with the given topic name"""
