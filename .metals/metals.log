@@ -1,0 +1,85 @@
+2023.02.04 11:37:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/.metals/lsp.trace.json or /home/ahmed/.cache/metals/lsp.trace.json[0m
+2023.02.04 11:37:10 INFO  logging to file /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/.metals/metals.log[0m
+2023.02.04 11:37:10 INFO  Started: Metals version 0.11.10 in workspace '/media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree' for client Visual Studio Code 1.75.0.[0m
+2023.02.04 11:37:10 WARN  Can't instantiate JavaInteractiveSemanticdb (version: JdkVersion(8), jdkHome: /usr/lib/jvm/java-8-openjdk-amd64, javac exists: false)[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/ahmed/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.04 11:37:13 INFO  time: initialize in 2.64s[0m
+2023.02.04 11:37:15 WARN  Build server is not auto-connectable.[0m
+2023.02.04 11:37:15 WARN  no build tool detected in workspace '/media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.02.04 11:37:15 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/build.sbt[0m
+2023.02.04 11:37:24 INFO  no build target found for /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/build.sbt. Using presentation compiler with project's scala-library version: 3.2.1[0m
+2023.02.04 11:37:28 INFO  time: code lens generation in 13s[0m
+2023.02.04 12:30:54 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/src/main/scala/streamHandler.scala[0m
+2023.02.04 12:37:19 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/build.sbt[0m
+Feb 04, 2023 12:38:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 217
+2023.02.04 12:39:49 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/build.sbt[0m
+2023.02.04 12:43:10 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/src/main/scala/streamHandler.scala[0m
+2023.02.04 12:44:53 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/src/main/scala/streamHandler.scala[0m
+2023.02.04 12:45:05 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/src/main/scala/streamHandler.scala[0m
+2023.02.04 12:45:19 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/src/main/scala/streamHandler.scala[0m
+2023.02.04 12:46:00 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/src/main/scala/streamHandler.scala[0m
+2023.02.04 12:47:11 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+Feb 04, 2023 12:53:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 915
+2023.02.04 12:53:40 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 12:53:56 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+Feb 04, 2023 1:05:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 987
+2023.02.04 13:05:53 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:05:53 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+Feb 04, 2023 1:11:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1171
+Exception in thread "pool-3-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2023.02.04 13:11:33 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:13:05 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:13:49 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:15:06 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:16:34 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:17:49 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+Feb 04, 2023 1:18:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1805
+Feb 04, 2023 1:19:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1901
+2023.02.04 13:20:20 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:21:16 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+Feb 04, 2023 1:23:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2276
+2023.02.04 13:23:55 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+Exception in thread "pool-3-thread-2" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+Feb 04, 2023 1:24:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2371
+2023.02.04 13:24:25 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:25:28 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:25:47 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:27:05 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:27:05 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:29:58 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:30:19 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+2023.02.04 13:30:25 WARN  no build target for: /media/ahmed/New Volume7/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/streamHandler.scala[0m
+Feb 04, 2023 1:30:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2547
+2023.02.04 13:33:20 INFO  shutting down Metals[0m

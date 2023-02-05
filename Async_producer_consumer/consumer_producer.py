@@ -65,7 +65,6 @@ async def produce(topic_name):
         p.flush()
 
 
-
 async def produce_consume(topic_name):
     """Runs the Producer and Consumer tasks"""
     t1 = asyncio.create_task(produce(TOPIC_NAME))

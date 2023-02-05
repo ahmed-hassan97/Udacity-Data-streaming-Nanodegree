@@ -8,19 +8,7 @@ import time
 scala_version = '2.12'
 spark_version = '3.1.2'
 
-def postgres_config():
-    dbhost = "localhost",
-    dbport = 5432
-    dbname = "test"
-    dbuser = "postgres"
-    dbpass = "postgres"
-    url = "jdbc:postgresql://"+str(dbhost)+":"+str(dbport)+"/"+str(dbname)
-    properties = {
-        "driver": "org.postgresql.Driver",
-        "user": dbuser,
-        "password": dbpass
-    }
-    return url , properties
+
     
 # TODO: Ensure match above values match the correct versions
 packages = [
