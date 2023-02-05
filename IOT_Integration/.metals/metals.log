@@ -595,3 +595,4 @@ WARNING: Unmatched cancel notification for request id 2289
 Feb 05, 2023 12:10:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 2331
 2023.02.05 12:11:09 WARN  no build target for: /media/ahmed/New Volume9/Udacity - Data Streaming Nanodegree/project/Udacity-Data-straming-Nanodegree/IOT_Integration/StreamHandler/src/main/scala/com/github/mrpowers/spark/daria/hadoop/KafkaIntegration.scala[0m
+2023.02.05 12:24:52 INFO  shutting down Metals[0m
